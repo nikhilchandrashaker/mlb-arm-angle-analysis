@@ -1,0 +1,5 @@
+source,url,attempt_date,result,data_obtained
+Baseball Savant Pitcher Arm Angle Leaderboard,https://baseballsavant.mlb.com/leaderboard/pitcher-arm-angles,2026-10-18,"Page loaded; table is JavaScript-rendered so no rows were readable. Page states arm angle is available since 2020 (0 deg = horizontal, 90 = over the top).",No data extracted
+Baseball Savant Custom Leaderboard (CSV),https://baseballsavant.mlb.com/leaderboard/custom,2026-10-18,Shell download blocked by session network policy (HTTP 403 on CONNECT); web fetch returned only the page shell.,No data extracted
+MLB Stats API,https://statsapi.mlb.com,2026-10-18,Not reachable from shell (403); web fetch permission not granted in time.,No data extracted
+User-supplied 161-name list,provided in chat,2026-10-18,Names only; origin of the list (e.g. which Savant filter produced it) was not stated and was not verified. No angles or stats came with it.,Names only

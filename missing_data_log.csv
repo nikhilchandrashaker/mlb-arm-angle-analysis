@@ -1,0 +1,5 @@
+field,scope,note
+arm_angle_deg,ALL rows,Source unreachable at build time. Run fetch_savant.py to populate.
+all performance stats,ALL rows,Same reason; nothing was estimated or recalled from memory.
+arm_angle_deg,Any pitcher with no 2020+ MLB innings,Savant measures arm angle only from 2020. Pitchers who retired earlier will stay blank permanently; they cannot be compared on measured angle. Consider keeping them as a labeled historical group or dropping them from the angle-vs-performance tests.
+user_group,136 pitchers from 161-list not in original list,"No group (submarine/sidearm/3-4) was supplied for them. Do not assign by guess; assign from measured arm angle after fetch_savant.py runs, or supply labels."

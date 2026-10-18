@@ -1,0 +1,192 @@
+pitcher_id,player_name,user_group,in_original_list,in_161_list,list161_rank,mlbam_id,throws,debut_year,final_year,id_status
+P001,Tyler Rogers,Submarine,Y,Y,1,,,,,not retrieved - source unreachable at build time
+P002,Adam Cimber,Submarine,Y,Y,3,,,,,not retrieved - source unreachable at build time
+P003,Ryan Thompson,Submarine,Y,Y,11,,,,,not retrieved - source unreachable at build time
+P004,Eric Orze,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P005,Darren O'Day,Submarine,Y,Y,9,,,,,not retrieved - source unreachable at build time
+P006,Kent Tekulve,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P007,Dan Quisenberry,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P008,Chad Bradford,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P009,Brad Ziegler,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P010,Byung-Hyun Kim,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P011,Mark Eichhorn,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P012,Carl Mays,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P013,Elden Auker,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P014,Ted Abernathy,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P015,Todd Frohwirth,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P016,Shunsuke Watanabe,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P017,Ben Rowen,Submarine,Y,Y,2,,,,,not retrieved - source unreachable at build time
+P018,Jeff Innis,Submarine,Y,N,,,,,,not retrieved - source unreachable at build time
+P019,Kevin Kelly,Sidearm,Y,Y,12,,,,,not retrieved - source unreachable at build time
+P020,Hoby Milner,Sidearm,Y,Y,23,,,,,not retrieved - source unreachable at build time
+P021,Adam Ottavino,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P022,John Schreiber,Sidearm,Y,Y,22,,,,,not retrieved - source unreachable at build time
+P023,Tim Hill,Sidearm,Y,Y,5,,,,,not retrieved - source unreachable at build time
+P024,Justin Lawrence,Sidearm,Y,Y,28,,,,,not retrieved - source unreachable at build time
+P025,Adam Kolarek,Sidearm,Y,Y,15,,,,,not retrieved - source unreachable at build time
+P026,Genesis Cabrera,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P027,Sean Okert,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P028,Bryan Shaw,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P029,Jake Reed,Sidearm,Y,Y,20,,,,,not retrieved - source unreachable at build time
+P030,Jose Cuas,Sidearm,Y,Y,16,,,,,not retrieved - source unreachable at build time
+P031,Peter Moylan,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P032,Pat Neshek,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P033,Steve Cishek,Sidearm,Y,Y,18,,,,,not retrieved - source unreachable at build time
+P034,Joe Smith,Sidearm,Y,Y,6,,,,,not retrieved - source unreachable at build time
+P035,Mike Myers,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P036,Steve Reed,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P037,Brad Clontz,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P038,Randy Choate,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P039,Gene Garber,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P040,Terry Adams,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P041,Cla Meredith,Sidearm,Y,N,,,,,,not retrieved - source unreachable at build time
+P042,Chris Sale,Low Three-Quarters (Control),Y,Y,68,,,,,not retrieved - source unreachable at build time
+P043,Logan Webb,Low Three-Quarters (Control),Y,Y,83,,,,,not retrieved - source unreachable at build time
+P044,Camilo Doval,Low Three-Quarters (Control),Y,N,,,,,,not retrieved - source unreachable at build time
+P045,Bryan Hudson,Low Three-Quarters (Control),Y,Y,73,,,,,not retrieved - source unreachable at build time
+P046,Brennan Bernardino,Low Three-Quarters (Control),Y,Y,76,,,,,not retrieved - source unreachable at build time
+P047,Sam Moll,Low Three-Quarters (Control),Y,Y,86,,,,,not retrieved - source unreachable at build time
+P048,Greg Weissert,Low Three-Quarters (Control),Y,Y,48,,,,,not retrieved - source unreachable at build time
+P049,Nick Sandlin,Low Three-Quarters (Control),Y,Y,26,,,,,not retrieved - source unreachable at build time
+P050,Austin Adams,Low Three-Quarters (Control),Y,Y,139,,,,,not retrieved - source unreachable at build time
+P051,Burch Smith,Low Three-Quarters (Control),Y,N,,,,,,not retrieved - source unreachable at build time
+P052,Phil Maton,Low Three-Quarters (Control),Y,Y,155,,,,,not retrieved - source unreachable at build time
+P053,Trevor Richards,Low Three-Quarters (Control),Y,N,,,,,,not retrieved - source unreachable at build time
+P054,Aaron Nola,Low Three-Quarters (Control),Y,Y,118,,,,,not retrieved - source unreachable at build time
+P055,Marcus Stroman,Low Three-Quarters (Control),Y,N,,,,,,not retrieved - source unreachable at build time
+P056,Eric Yardley,Unassigned (161-list only),N,Y,4,,,,,not retrieved - source unreachable at build time
+P057,Wyatt Mills,Unassigned (161-list only),N,Y,7,,,,,not retrieved - source unreachable at build time
+P058,Trevor Kelley,Unassigned (161-list only),N,Y,8,,,,,not retrieved - source unreachable at build time
+P059,Scott Effross,Unassigned (161-list only),N,Y,10,,,,,not retrieved - source unreachable at build time
+P060,Chase Lee,Unassigned (161-list only),N,Y,13,,,,,not retrieved - source unreachable at build time
+P061,Alek Jacob,Unassigned (161-list only),N,Y,14,,,,,not retrieved - source unreachable at build time
+P062,Penn Murfee,Unassigned (161-list only),N,Y,17,,,,,not retrieved - source unreachable at build time
+P063,Ralph Garza Jr.,Unassigned (161-list only),N,Y,19,,,,,not retrieved - source unreachable at build time
+P064,Rich Hill,Unassigned (161-list only),N,Y,21,,,,,not retrieved - source unreachable at build time
+P065,Kyle Backhus,Unassigned (161-list only),N,Y,24,,,,,not retrieved - source unreachable at build time
+P066,Grant Anderson,Unassigned (161-list only),N,Y,25,,,,,not retrieved - source unreachable at build time
+P067,PJ Poulin,Unassigned (161-list only),N,Y,27,,,,,not retrieved - source unreachable at build time
+P068,Joe Jacques,Unassigned (161-list only),N,Y,29,,,,,not retrieved - source unreachable at build time
+P069,Aaron Loup,Unassigned (161-list only),N,Y,30,,,,,not retrieved - source unreachable at build time
+P070,Paul Sewald,Unassigned (161-list only),N,Y,31,,,,,not retrieved - source unreachable at build time
+P071,Mychal Givens,Unassigned (161-list only),N,Y,32,,,,,not retrieved - source unreachable at build time
+P072,Seth Martinez,Unassigned (161-list only),N,Y,33,,,,,not retrieved - source unreachable at build time
+P073,Casey Legumina,Unassigned (161-list only),N,Y,34,,,,,not retrieved - source unreachable at build time
+P074,Austin Brice,Unassigned (161-list only),N,Y,35,,,,,not retrieved - source unreachable at build time
+P075,Edwin Uceta,Unassigned (161-list only),N,Y,36,,,,,not retrieved - source unreachable at build time
+P076,Erich Uelmen,Unassigned (161-list only),N,Y,37,,,,,not retrieved - source unreachable at build time
+P077,Sammy Peralta,Unassigned (161-list only),N,Y,38,,,,,not retrieved - source unreachable at build time
+P078,Tyson Miller,Unassigned (161-list only),N,Y,39,,,,,not retrieved - source unreachable at build time
+P079,Jimmy Herget,Unassigned (161-list only),N,Y,40,,,,,not retrieved - source unreachable at build time
+P080,Phillips Valdez,Unassigned (161-list only),N,Y,41,,,,,not retrieved - source unreachable at build time
+P081,Alex Claudio,Unassigned (161-list only),N,Y,42,,,,,not retrieved - source unreachable at build time
+P082,JP Sears,Unassigned (161-list only),N,Y,43,,,,,not retrieved - source unreachable at build time
+P083,Alexis Díaz,Unassigned (161-list only),N,Y,44,,,,,not retrieved - source unreachable at build time
+P084,Tom Cosgrove,Unassigned (161-list only),N,Y,45,,,,,not retrieved - source unreachable at build time
+P085,Drew Sommers,Unassigned (161-list only),N,Y,46,,,,,not retrieved - source unreachable at build time
+P086,Tyler Gilbert,Unassigned (161-list only),N,Y,47,,,,,not retrieved - source unreachable at build time
+P087,Evan Sisk,Unassigned (161-list only),N,Y,49,,,,,not retrieved - source unreachable at build time
+P088,Taylor Williams,Unassigned (161-list only),N,Y,50,,,,,not retrieved - source unreachable at build time
+P089,Humberto Castellanos,Unassigned (161-list only),N,Y,51,,,,,not retrieved - source unreachable at build time
+P090,Nestor Cortes,Unassigned (161-list only),N,Y,52,,,,,not retrieved - source unreachable at build time
+P091,Tayler Scott,Unassigned (161-list only),N,Y,53,,,,,not retrieved - source unreachable at build time
+P092,Chris Roycroft,Unassigned (161-list only),N,Y,54,,,,,not retrieved - source unreachable at build time
+P093,Robert Stock,Unassigned (161-list only),N,Y,55,,,,,not retrieved - source unreachable at build time
+P094,Craig Kimbrel,Unassigned (161-list only),N,Y,56,,,,,not retrieved - source unreachable at build time
+P095,Alex Wood,Unassigned (161-list only),N,Y,57,,,,,not retrieved - source unreachable at build time
+P096,Joe Ryan,Unassigned (161-list only),N,Y,58,,,,,not retrieved - source unreachable at build time
+P097,Ryan Sherriff,Unassigned (161-list only),N,Y,59,,,,,not retrieved - source unreachable at build time
+P098,Brendan White,Unassigned (161-list only),N,Y,60,,,,,not retrieved - source unreachable at build time
+P099,Trent Thornton,Unassigned (161-list only),N,Y,61,,,,,not retrieved - source unreachable at build time
+P100,Noé Ramirez,Unassigned (161-list only),N,Y,62,,,,,not retrieved - source unreachable at build time
+P101,Peter Strzelecki,Unassigned (161-list only),N,Y,63,,,,,not retrieved - source unreachable at build time
+P102,Tyler Anderson,Unassigned (161-list only),N,Y,64,,,,,not retrieved - source unreachable at build time
+P103,José De León,Unassigned (161-list only),N,Y,65,,,,,not retrieved - source unreachable at build time
+P104,Josh Simpson,Unassigned (161-list only),N,Y,66,,,,,not retrieved - source unreachable at build time
+P105,Ben Joyce,Unassigned (161-list only),N,Y,67,,,,,not retrieved - source unreachable at build time
+P106,Spencer Arrighetti,Unassigned (161-list only),N,Y,69,,,,,not retrieved - source unreachable at build time
+P107,Grant Hartwig,Unassigned (161-list only),N,Y,70,,,,,not retrieved - source unreachable at build time
+P108,Victor González,Unassigned (161-list only),N,Y,71,,,,,not retrieved - source unreachable at build time
+P109,Edwin Díaz,Unassigned (161-list only),N,Y,72,,,,,not retrieved - source unreachable at build time
+P110,Kyle Harrison,Unassigned (161-list only),N,Y,74,,,,,not retrieved - source unreachable at build time
+P111,Blas Castaño,Unassigned (161-list only),N,Y,75,,,,,not retrieved - source unreachable at build time
+P112,Justin Bruihl,Unassigned (161-list only),N,Y,77,,,,,not retrieved - source unreachable at build time
+P113,Sergio Romo,Unassigned (161-list only),N,Y,78,,,,,not retrieved - source unreachable at build time
+P114,Ryan Yarbrough,Unassigned (161-list only),N,Y,79,,,,,not retrieved - source unreachable at build time
+P115,Cooper Criswell,Unassigned (161-list only),N,Y,80,,,,,not retrieved - source unreachable at build time
+P116,Rony García,Unassigned (161-list only),N,Y,81,,,,,not retrieved - source unreachable at build time
+P117,Drew Rom,Unassigned (161-list only),N,Y,82,,,,,not retrieved - source unreachable at build time
+P118,Yohan Ramírez,Unassigned (161-list only),N,Y,84,,,,,not retrieved - source unreachable at build time
+P119,Andrew Heaney,Unassigned (161-list only),N,Y,85,,,,,not retrieved - source unreachable at build time
+P120,Tyler Danish,Unassigned (161-list only),N,Y,87,,,,,not retrieved - source unreachable at build time
+P121,Tyler Zuber,Unassigned (161-list only),N,Y,88,,,,,not retrieved - source unreachable at build time
+P122,César Valdez,Unassigned (161-list only),N,Y,89,,,,,not retrieved - source unreachable at build time
+P123,Craig Yoho,Unassigned (161-list only),N,Y,90,,,,,not retrieved - source unreachable at build time
+P124,Danny Young,Unassigned (161-list only),N,Y,91,,,,,not retrieved - source unreachable at build time
+P125,Dustin May,Unassigned (161-list only),N,Y,92,,,,,not retrieved - source unreachable at build time
+P126,Phil Bickford,Unassigned (161-list only),N,Y,93,,,,,not retrieved - source unreachable at build time
+P127,Darwinzon Hernández,Unassigned (161-list only),N,Y,94,,,,,not retrieved - source unreachable at build time
+P128,Austin Warren,Unassigned (161-list only),N,Y,95,,,,,not retrieved - source unreachable at build time
+P129,Miguel Castro,Unassigned (161-list only),N,Y,96,,,,,not retrieved - source unreachable at build time
+P130,Rafael Montero,Unassigned (161-list only),N,Y,97,,,,,not retrieved - source unreachable at build time
+P131,Matt Wilkinson,Unassigned (161-list only),N,Y,98,,,,,not retrieved - source unreachable at build time
+P132,Carmen Mlodzinski,Unassigned (161-list only),N,Y,99,,,,,not retrieved - source unreachable at build time
+P133,Matt Festa,Unassigned (161-list only),N,Y,100,,,,,not retrieved - source unreachable at build time
+P134,Didier Fuentes,Unassigned (161-list only),N,Y,101,,,,,not retrieved - source unreachable at build time
+P135,Justin Topa,Unassigned (161-list only),N,Y,102,,,,,not retrieved - source unreachable at build time
+P136,Luis Ortiz,Unassigned (161-list only),N,Y,103,,,,,not retrieved - source unreachable at build time
+P137,Carson Palmquist,Unassigned (161-list only),N,Y,104,,,,,not retrieved - source unreachable at build time
+P138,Logan Allen,Unassigned (161-list only),N,Y,105,,,,,not retrieved - source unreachable at build time
+P139,Raisel Iglesias,Unassigned (161-list only),N,Y,106,,,,,not retrieved - source unreachable at build time
+P140,Gavin Collyer,Unassigned (161-list only),N,Y,107,,,,,not retrieved - source unreachable at build time
+P141,Yennier Cano,Unassigned (161-list only),N,Y,108,,,,,not retrieved - source unreachable at build time
+P142,Victor Vodnik,Unassigned (161-list only),N,Y,109,,,,,not retrieved - source unreachable at build time
+P143,Collin Snider,Unassigned (161-list only),N,Y,110,,,,,not retrieved - source unreachable at build time
+P144,Julio Teheran,Unassigned (161-list only),N,Y,111,,,,,not retrieved - source unreachable at build time
+P145,Emerson Hancock,Unassigned (161-list only),N,Y,112,,,,,not retrieved - source unreachable at build time
+P146,Trevor Williams,Unassigned (161-list only),N,Y,113,,,,,not retrieved - source unreachable at build time
+P147,Jacob Lopez,Unassigned (161-list only),N,Y,114,,,,,not retrieved - source unreachable at build time
+P148,Bryan Woo,Unassigned (161-list only),N,Y,115,,,,,not retrieved - source unreachable at build time
+P149,Luis Castillo,Unassigned (161-list only),N,Y,116,,,,,not retrieved - source unreachable at build time
+P150,Mason Black,Unassigned (161-list only),N,Y,117,,,,,not retrieved - source unreachable at build time
+P151,Ron Marinaccio,Unassigned (161-list only),N,Y,119,,,,,not retrieved - source unreachable at build time
+P152,Jesse Chavez,Unassigned (161-list only),N,Y,120,,,,,not retrieved - source unreachable at build time
+P153,Ryan Walker,Unassigned (161-list only),N,Y,121,,,,,not retrieved - source unreachable at build time
+P154,Jake Woodford,Unassigned (161-list only),N,Y,122,,,,,not retrieved - source unreachable at build time
+P155,Freddy Peralta,Unassigned (161-list only),N,Y,123,,,,,not retrieved - source unreachable at build time
+P156,Joe Kelly,Unassigned (161-list only),N,Y,124,,,,,not retrieved - source unreachable at build time
+P157,Robert Gasser,Unassigned (161-list only),N,Y,125,,,,,not retrieved - source unreachable at build time
+P158,Andrés Muñoz,Unassigned (161-list only),N,Y,126,,,,,not retrieved - source unreachable at build time
+P159,Josh Hader,Unassigned (161-list only),N,Y,127,,,,,not retrieved - source unreachable at build time
+P160,Zack Wheeler,Unassigned (161-list only),N,Y,128,,,,,not retrieved - source unreachable at build time
+P161,Matthew Boyd,Unassigned (161-list only),N,Y,129,,,,,not retrieved - source unreachable at build time
+P162,Nolan McLean,Unassigned (161-list only),N,Y,130,,,,,not retrieved - source unreachable at build time
+P163,Aaron Bummer,Unassigned (161-list only),N,Y,131,,,,,not retrieved - source unreachable at build time
+P164,Scott Barlow,Unassigned (161-list only),N,Y,132,,,,,not retrieved - source unreachable at build time
+P165,Brandon Eisert,Unassigned (161-list only),N,Y,133,,,,,not retrieved - source unreachable at build time
+P166,Kyle Crick,Unassigned (161-list only),N,Y,134,,,,,not retrieved - source unreachable at build time
+P167,Trevor McDonald,Unassigned (161-list only),N,Y,135,,,,,not retrieved - source unreachable at build time
+P168,Tanner Scott,Unassigned (161-list only),N,Y,136,,,,,not retrieved - source unreachable at build time
+P169,Chris Bassitt,Unassigned (161-list only),N,Y,137,,,,,not retrieved - source unreachable at build time
+P170,Jonathan Pintaro,Unassigned (161-list only),N,Y,138,,,,,not retrieved - source unreachable at build time
+P171,Ben Lively,Unassigned (161-list only),N,Y,140,,,,,not retrieved - source unreachable at build time
+P172,Lance McCullers Jr.,Unassigned (161-list only),N,Y,141,,,,,not retrieved - source unreachable at build time
+P173,Tony Watson,Unassigned (161-list only),N,Y,142,,,,,not retrieved - source unreachable at build time
+P174,Collin McHugh,Unassigned (161-list only),N,Y,143,,,,,not retrieved - source unreachable at build time
+P175,Yimi García,Unassigned (161-list only),N,Y,144,,,,,not retrieved - source unreachable at build time
+P176,Josiah Gray,Unassigned (161-list only),N,Y,145,,,,,not retrieved - source unreachable at build time
+P177,Zach Logue,Unassigned (161-list only),N,Y,146,,,,,not retrieved - source unreachable at build time
+P178,Sean Manaea,Unassigned (161-list only),N,Y,147,,,,,not retrieved - source unreachable at build time
+P179,Jack Flaherty,Unassigned (161-list only),N,Y,148,,,,,not retrieved - source unreachable at build time
+P180,Jake Bird,Unassigned (161-list only),N,Y,149,,,,,not retrieved - source unreachable at build time
+P181,Dillon Tate,Unassigned (161-list only),N,Y,150,,,,,not retrieved - source unreachable at build time
+P182,Jacob Misiorowski,Unassigned (161-list only),N,Y,151,,,,,not retrieved - source unreachable at build time
+P183,Ethan Roberts,Unassigned (161-list only),N,Y,152,,,,,not retrieved - source unreachable at build time
+P184,Corey Kluber,Unassigned (161-list only),N,Y,153,,,,,not retrieved - source unreachable at build time
+P185,Matt Brash,Unassigned (161-list only),N,Y,154,,,,,not retrieved - source unreachable at build time
+P186,Brayan Bello,Unassigned (161-list only),N,Y,156,,,,,not retrieved - source unreachable at build time
+P187,Ryan Weber,Unassigned (161-list only),N,Y,157,,,,,not retrieved - source unreachable at build time
+P188,Kirby Yates,Unassigned (161-list only),N,Y,158,,,,,not retrieved - source unreachable at build time
+P189,Joe Mantiply,Unassigned (161-list only),N,Y,159,,,,,not retrieved - source unreachable at build time
+P190,Landen Roupp,Unassigned (161-list only),N,Y,160,,,,,not retrieved - source unreachable at build time
+P191,Brady Singer,Unassigned (161-list only),N,Y,161,,,,,not retrieved - source unreachable at build time

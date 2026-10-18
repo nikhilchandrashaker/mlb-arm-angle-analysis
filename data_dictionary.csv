@@ -1,0 +1,22 @@
+column,file,type,unit,definition
+pitcher_id,roster/performance,text,none,Internal key (P001...)
+player_name,roster/performance,text,none,Name exactly as in the user's list
+mlbam_id,roster,integer,none,MLBAM player ID; filled by fetch_savant.py from Savant player_id
+throws,roster,text,none,L/R; blank until sourced
+debut_year / final_year,roster,integer,year,First/last MLB season; blank until sourced
+season,performance,integer,year,MLB season. 2020+ because Savant arm angle is available since 2020
+arm_angle_deg,performance,float,degrees,"Savant average arm angle at release; 0 = horizontal (sidearm), 90 = straight over the top. Measured, never estimated"
+arm_angle_source,performance,text,none,"Where the angle came from (Savant custom leaderboard, season)"
+g,performance,integer,games,Games pitched
+ip,performance,float,innings,Innings pitched (baseball notation converted to decimal thirds by script)
+era / xera,performance,float,runs per 9,Earned run average / Statcast expected ERA
+k_pct / bb_pct,performance,float,percent,Strikeout / walk rate per plate appearance
+whiff_pct,performance,float,percent,Swings and misses per swing
+gb_pct,performance,float,percent,Ground ball rate
+woba_against / xwoba_against,performance,float,wOBA scale,Actual / expected wOBA allowed
+avg_ev_against,performance,float,mph,Average exit velocity allowed
+barrel_pct_against,performance,float,percent,Barrel rate allowed
+missing_data_note,performance,text,none,Why a value is blank. Blank value + note is the intended pattern; zeros are never used as placeholders
+in_original_list / in_161_list / list161_rank,roster,"Y/N, integer",none,"Which list(s) the pitcher came from, and position on the 161-name list"
+user_group,roster/performance,text,none,"Submarine / Sidearm / Low Three-Quarters (Control) = labels YOU gave in the original 55-name list. 'Unassigned (161-list only)' = on the 161-name list, no group label supplied. Labels are not derived from measured angle"
+in_original_list / in_161_list / list161_rank,roster,"Y/N, integer",none,"Which list(s) the pitcher came from, and position on the 161-name list"
